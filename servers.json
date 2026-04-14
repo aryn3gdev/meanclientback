@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Hardcore SMP",
+    "ip": "localhost:25565",
+    "version": "1.20.4",
+    "players": 12,
+    "maxPlayers": 50
+  },
+  {
+    "name": "Testing Lab",
+    "ip": "127.0.0.1:25566",
+    "version": "1.20.1",
+    "players": 2,
+    "maxPlayers": 20
+  }
+]
